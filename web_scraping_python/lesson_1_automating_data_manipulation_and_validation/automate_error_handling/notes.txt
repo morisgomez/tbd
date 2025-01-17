@@ -1,0 +1,17 @@
+SYNTAX ERRORS:
+- Occur when the code violates Python lanaguage rules.
+
+RUNTIME ERRORS:
+- Occur when an unexpected condition happens durin execution and program stops.
+- NameError = Using undefined variable.
+- TypeError = Mismatched data type operation.
+- IndexError = Out-of-range sequence.
+- AttributeError = Invalid object attribute/method.
+- ValueError = Incorrect argument value.
+- ZeroDivisionError = Division by zero.
+
+LOGICAL ERRORS:
+- Code runs but yields incorrect outcomes due to flawd reasoning.
+
+ASSERT STATEMENTS:
+- Error handling tool for logical errors.
